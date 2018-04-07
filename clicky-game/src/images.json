@@ -1,0 +1,78 @@
+[
+  {
+    "key": 1,
+    "name": "Chewbacca",
+    "clicked": 0,
+    "image":
+      "https://lumiere-a.akamaihd.net/v1/images/chewbacca_featured_582e3846.jpeg?region=0%2C56%2C1536%2C768&width=480"
+  },
+  {
+    "key": 2,
+    "name": "Rey",
+    "clicked": 0,
+    "image": "https://cdn.europosters.eu/image/1300/50035.jpg"
+  },
+  {
+    "key": 3,
+    "name": "Kylo Ren",
+    "clicked": 0,
+    "image":
+      "https://lumiere-a.akamaihd.net/v1/images/kylo-ren-main_1e9b4b39.jpeg?region=0%2C0%2C1560%2C878&width=768"
+  },
+  {
+    "key": 4,
+    "name": "Darth Vader",
+    "clicked": 0,
+    "image":
+      "https://www.sideshowtoy.com/wp-content/uploads/2014/07/star-wars-darth-vader-life-size-feature-400184.jpg"
+  },
+  {
+    "key": 5,
+    "name": "Obi-Wan Kenobi",
+    "clicked": 0,
+    "image": "https://nerdist.com/wp-content/uploads/2017/12/download.jpg"
+  },
+  {
+    "key": 6,
+    "name": "Yoda",
+    "clicked": 0,
+    "image":
+      "http://starwarsblog.starwars.com/wp-content/uploads/sites/6/2017/05/yoda-advice-always-in-motion-is-the-future.jpg"
+  },
+  {
+    "key": 7,
+    "name": "Jar-Jar Binks",
+    "clicked": 0,
+    "image": "http://i0.kym-cdn.com/photos/images/original/001/306/176/19f.jpg"
+  },
+  {
+    "key": 8,
+    "name": "Han Solo",
+    "clicked": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg/220px-Han_Solo_depicted_in_promotional_image_for_Star_Wars_%281977%29.jpg"
+  },
+  {
+    "key": 9,
+    "name": "Luke Skywalker",
+    "clicked": 0,
+    "image": "https://i.ytimg.com/vi/UC4A7y7ONoI/maxresdefault.jpg"
+  },
+  {
+    "key": 10,
+    "name": "R2D2",
+    "clicked": 0,
+    "image": "https://dyn0.media.forbiddenplanet.com/products/3847619.jpg.jpg"
+  },
+  {
+    "key": 11,
+    "name": "Princess Leia",
+    "clicked": 0,
+    "image": "https://i.ebayimg.com/images/g/cBMAAOSw44BYZGiJ/s-l300.jpg"
+  },
+  {
+    "key": 12,
+    "name": "Emperor Palpatine",
+    "clicked": 0,
+    "image": "http://nerdreactor.com/wp-content/uploads/2017/09/palpatine-star-wars.jpg"
+  }
+]
